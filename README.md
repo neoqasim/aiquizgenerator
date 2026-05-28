@@ -8,14 +8,14 @@ A simple AI-powered web app that generates MCQ quizzes from any topic using Groq
 
 ## ⚙️ Setup Instructions
 
-### github link 
+
+### Clone / Extract Project
 
 ```bash
 git clone https://github.com/neoqasim/aiquizgenerator 
 ````
 
 
-### 1. Clone / Extract Project
 ```bash
 cd ai-quiz-generator
 ````
